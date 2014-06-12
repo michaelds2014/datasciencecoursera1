@@ -1,0 +1,23 @@
+
+
+
+Welcome to Git (version 1.9.2-preview20140411)
+
+$ mkdir ~/ds1
+
+$ cd ds1
+
+$ git init
+Initialized empty Git repository in c:/Users/Michael/ds1/.git/
+
+$ git remote add origin https://github.com/michaelds2014/datasciencecoursera1.g
+it
+
+$ git clone  https://github.com/michaelds2014/datasciencecoursera1.git
+Cloning into 'datasciencecoursera1'...
+remote: Counting objects: 9, done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 9 (delta 0), reused 0 (delta 0)
+Unpacking objects: 100% (9/9), done.
+Checking connectivity... done.
+
